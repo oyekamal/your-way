@@ -10656,13 +10656,13 @@ header.style-6 .main-menu .hotline-area .content h6 a {
 	border: 1px solid rgba(70, 217, 147, .2);
 	background: #1f1f1f;
 	padding: 8px 15px;
-	max-width: 970px;
+	max-width: 1200px;
 	width: 100%
 }
 
 @media(max-width:1499px) {
 	.header-and-filter-area .filter-area .filter-wrap form {
-		max-width: 930px
+		max-width: 12000px
 	}
 }
 
@@ -11479,7 +11479,7 @@ header.style-6 .main-menu .hotline-area .content h6 a {
 	border: 1px solid rgba(70, 217, 147, .2);
 	background: #1f1f1f;
 	padding: 8px 15px;
-	max-width: 970px;
+	max-width: 1200px;
 	width: 100%
 }
 
@@ -18075,7 +18075,7 @@ footer.style-3 .footer-btm .social-area ul li a:hover {
 }
 
 .home4-banner-area .banner-content {
-	max-width: 970px;
+	max-width: 1200px;
 	width: 100%;
 	position: absolute;
 	top: 39%;
@@ -19349,7 +19349,7 @@ footer.style-3 .footer-btm .social-area ul li a:hover {
 }
 
 .home5-banner-area .banner-content {
-	max-width: 970px;
+	max-width: 3000px;
 	width: 100%;
 	position: absolute;
 	top: 50%;
@@ -21154,7 +21154,7 @@ footer.style-3 .footer-btm .social-area ul li a:hover {
 	padding: 95px 8% 130px
 }
 
-@media(min-width:1400px) and (max-width:1599px) {
+@media(min-width:1400px) and (max-width:2000px) {
 	.home6-banner-area {
 		padding: 95px 3% 130px
 	}
@@ -21365,17 +21365,17 @@ footer.style-3 .footer-btm .social-area ul li a:hover {
 }
 
 .home6-search-area {
-	margin-top: -70px
+	margin-top: 0px
 }
 
 .home6-search-area form {
-	border-radius: 10px;
+	border-radius: 5px;
 	border: 1px solid rgba(29, 29, 29, .1);
 	background: var(--white-color);
 	padding: 22px 40px 30px
 }
 
-@media(max-width:1199px) {
+@media(max-width:800px) {
 	.home6-search-area form {
 		padding: 22px 20px 30px
 	}
@@ -22304,7 +22304,7 @@ footer.style-3 .footer-btm .social-area ul li a:hover {
 }
 
 .welcome-banner-section .welcome-wrap {
-	max-width: 970px;
+	max-width: 1800px;
 	width: 100%;
 	margin: 0 auto
 }
