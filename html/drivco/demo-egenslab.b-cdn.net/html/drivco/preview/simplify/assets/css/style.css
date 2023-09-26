@@ -14,7 +14,7 @@
 	--black-color2: #1D1D1D;
 	--title-color: #13141A;
 	--text-color: #5E5E5E;
-	--primary-color1: #e4e80b
+	--primary-color1: #CDCDCD;
 }
 
 html {
@@ -1887,7 +1887,7 @@ p {
 }
 
 .signUp-modal .modal-dialog .modal-content .form-inner input:focus {
-	border: 1px solid #e4e80b;
+	border: 1px solid #5E5E5E;
 	background: #fff
 }
 
@@ -2046,7 +2046,7 @@ p {
 }
 
 .signUp-modal.sell-with-us .modal-dialog .modal-content .form-inner textarea:focus {
-	border: 1px solid #e4e80b;
+	border: 1px solid #5E5E5E;
 	background: #fff
 }
 
@@ -2148,7 +2148,7 @@ p {
 }
 
 .adSearch-modal .modal-dialog .modal-content .form-inner input:focus {
-	border: 1px solid #e4e80b;
+	border: 1px solid #5E5E5E;
 	background: #fff
 }
 
@@ -2175,7 +2175,7 @@ p {
 }
 
 .adSearch-modal .modal-dialog .modal-content .form-inner textarea:focus {
-	border: 1px solid #e4e80b;
+	border: 1px solid #5E5E5E;
 	background: #fff
 }
 
@@ -24184,7 +24184,7 @@ button {
 }
 
 .product-details-page .tab-content2 .review-form .form-inner input :focus {
-	border: 1px solid #e4e80b;
+	border: 1px solid #5E5E5E;
 	background: #fff
 }
 
@@ -24211,7 +24211,7 @@ button {
 }
 
 .product-details-page .tab-content2 .review-form .form-inner textarea :focus {
-	border: 1px solid #e4e80b;
+	border: 1px solid #5E5E5E;
 	background: #fff
 }
 
@@ -27493,7 +27493,7 @@ button {
 }
 
 .faq-inquiery-form .form-inner input:focus {
-	border: 1px solid #e4e80b;
+	border: 1px solid #5E5E5E;
 	background: #fff
 }
 
@@ -27520,7 +27520,7 @@ button {
 }
 
 .faq-inquiery-form .form-inner textarea:focus {
-	border: 1px solid #e4e80b;
+	border: 1px solid #5E5E5E;
 	background: #fff
 }
 
