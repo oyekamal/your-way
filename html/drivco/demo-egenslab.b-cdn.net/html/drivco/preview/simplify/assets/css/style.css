@@ -28434,4 +28434,8 @@ button {
 	padding-right: 20px
 	}
 	
+	.bordered-div {
+		border: 1px solid  #5E5E5E; /* Grey color border */
+		padding: 2px; /* Optional: Add padding for spacing */
+	}
 	
